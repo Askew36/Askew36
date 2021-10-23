@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Askew36
+- 👀 I’m interested in Control Systems Engineering...
+- 🌱 I’m currently Studying a degreee in Mechatronic Engineering ...
+- 📫 you can reach me on: andrewaskew36@gmail.com...
+
+<!---
+Askew36/Askew36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
